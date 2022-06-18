@@ -6,4 +6,4 @@ Can be used for image and video processing in floods, data analysis and many mor
 # Citing
 If you use this code in your research, we ask you to cite the following publication
 
-Khan, Q., Kalbus, E., Zaki, N. and Mohamed, M.M., 2022. Utilization of Social Media in Floods Assessment using Data Mining Techniques. PLoS One, 17(4), e0267079, doi.org/10.1371/journal.pone.0267079
+Khan, Q., Kalbus, E., Zaki, N. and Mohamed, M.M., 2022. Utilization of Social Media in Floods Assessment using Data Mining Techniques. PLoS One, 17(4), e0267079, https://doi.org/10.1371/journal.pone.0267079
