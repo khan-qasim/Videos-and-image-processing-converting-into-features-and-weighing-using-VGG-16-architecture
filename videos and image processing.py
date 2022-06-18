@@ -7,7 +7,8 @@ from keras.applications.vgg16 import preprocess_input
 
 import numpy as np
 
-'''This function extracts frames from videos and save them as .jpg file'''def extractVideoToFrames(): 
+'''This function extracts frames from videos and save them as .jpg file'''
+def extractVideoToFrames(): 
     for entry in os.scandir('.'):
         if entry.is_file():
             if entry.name.lower().endswith(".mp4"):
